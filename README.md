@@ -1,5 +1,5 @@
 # test_practice
 test project
-<!Doctype html>
+<!DOCTYPE html>
 <body>
-<body bg = "red">
+<body bgcolor = "red">
