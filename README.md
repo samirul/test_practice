@@ -2,4 +2,5 @@
 test project
 <html>
 <body>
-<body bgcolor>= "red"
+<body bgcolor= "red">
+<font>< font color ="blue">good</font>
